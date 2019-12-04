@@ -1,3 +1,3 @@
 def hello():
-   #test
+   #tests
    return "Hello!"
